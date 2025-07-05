@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,StockQuantity,Price,DateAdded
+P001,Smartphone,Electronics,50,699.99,2023-02-01
+P002,Laptop,Electronics,30,999.99,2022-12-15
+P003,Headphones,Accessories,120,149.99,2023-04-10
+P004,Table,Furniture,10,189.99,2021-11-20
+P005,Coffee Maker,Appliances,200,79.99,2023-06-25
